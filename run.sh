@@ -1,1 +1,1 @@
-singularity -s exec --bind ./code:/code .container $1
+singularity -s exec --bind ./code:/code .container bash -c "cd /code && $1"

@@ -37,7 +37,7 @@ Clone the repository with the http protocol to your home directory in one of the
 ## Hosting your Code
 You can put the code that you want to execute on the servers under the folder `code/`. This folder is ignored from the github, so no stack changes should occurr (github will ignore changes in this folder).
 
-After setting the code in the folder, you can execute it with the `run.sh` script. E.g, let's say you have a file named as `test.py` under the folder `code/`. Just execute the following command to run it:
+After placing the code in the folder, you can execute it with the `run.sh` script. E.g, let's say you have a file named as `test.py` under the folder `code/`. Just execute the following command to run it:
 ```
 ./run.sh "python test.py"
 ```

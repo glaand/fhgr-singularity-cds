@@ -1,5 +1,5 @@
 # Knowledge requirements
-In order that you feel confortable with his environment, i advise you to get some basic understanding on the following topics:
+In order that you feel confortable with this environment, i advise you to get some basic understanding on the following topics:
  - [Top linux commands](https://bytescout.com/blog/most-used-linux-commands.html)
  - [Virtualisation](https://www.redhat.com/en/topics/virtualization/what-is-virtualization)
  - [Docker](https://www.educative.io/blog/beginners-guide-to-docker)

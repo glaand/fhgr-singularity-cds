@@ -26,7 +26,7 @@ Have fun :)
 # Setup
 ### 1. Step - Cloning the repository
 Clone the repository with the http protocol to your home directory in one of the fhgr's servers.
-`https://github.com/glaand/fhgr-singularity-cds.git`
+`git clone https://github.com/glaand/fhgr-singularity-cds.git`
 ### 2. Step - Enter the repository
 `cd fhgr-singularity-cds`
 ### 3. Step - Give permissions to shell scripts
